@@ -3,6 +3,7 @@
 ## Installing Requirements
 
 The code works with Python >= 3.10 (possibly also earlier versions but this was not tested).
+The code was tested using the Visual Studio Code IDE. Issues have been reported with other IDEs.
 
 ### Steps to Install
 
